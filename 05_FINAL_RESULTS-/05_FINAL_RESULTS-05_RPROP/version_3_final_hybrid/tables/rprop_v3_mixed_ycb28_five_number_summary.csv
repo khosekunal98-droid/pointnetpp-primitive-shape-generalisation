@@ -1,0 +1,2 @@
+optimizer,version,training_condition,n_runs,min_accuracy,q1_accuracy,median_accuracy,q3_accuracy,max_accuracy,mean_accuracy,std_accuracy
+RProp,v3_final_hybrid,mixed_trained_xyz_rprop_v3,10,68.75,70.625,71.60714285714286,72.09821428571428,72.85714285714285,71.19642857142857,1.3574822048586597

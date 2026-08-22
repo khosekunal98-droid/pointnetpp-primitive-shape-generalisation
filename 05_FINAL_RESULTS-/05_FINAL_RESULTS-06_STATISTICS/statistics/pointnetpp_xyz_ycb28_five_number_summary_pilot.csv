@@ -1,0 +1,4 @@
+train_condition,Minimum,Q1,Median,Q3,Maximum,Mean,Std
+clean_trained_xyz,81.25,82.0536,82.8571,83.125,83.3929,82.5,1.1152
+error_trained_xyz,85.5357,85.8036,86.0714,88.3036,90.5357,87.381,2.7452
+mixed_trained_xyz,87.1429,88.6607,90.1786,90.625,91.0714,89.4643,2.0594

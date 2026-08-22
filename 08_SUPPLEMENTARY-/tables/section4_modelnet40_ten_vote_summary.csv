@@ -1,0 +1,10 @@
+train_condition,checkpoint,accuracy_percent,n_samples,mean_confidence,votes
+mixed_trained_xyz,mixed_trained_xyz_run_1_best.pth,80.24691358024691,486,0.879958987236023,10
+mixed_trained_xyz,mixed_trained_xyz_run_2_best.pth,84.97942386831275,486,0.8832171559333801,10
+mixed_trained_xyz,mixed_trained_xyz_run_3_best.pth,70.78189300411523,486,0.8700667023658752,10
+mixed_trained_xyz,mixed_trained_xyz_run_4_best.pth,82.3045267489712,486,0.8733680248260498,10
+mixed_trained_xyz,mixed_trained_xyz_run_5_best.pth,80.8641975308642,486,0.8692077994346619,10
+mixed_trained_xyz,mixed_trained_xyz_run_6_best.pth,83.9506172839506,486,0.895319938659668,10
+mixed_trained_xyz,mixed_trained_xyz_run_7_best.pth,78.60082304526749,486,0.8883237838745117,10
+mixed_trained_xyz,mixed_trained_xyz_run_8_best.pth,84.5679012345679,486,0.8567805290222168,10
+mixed_trained_xyz,mixed_trained_xyz_run_9_best.pth,82.71604938271605,486,0.904341459274292,10

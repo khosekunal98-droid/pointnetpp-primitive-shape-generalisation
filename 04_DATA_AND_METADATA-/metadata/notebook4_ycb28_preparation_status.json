@@ -1,0 +1,17 @@
+{
+    "notebook": "04_prepare_ycb_dataset",
+    "status": "complete",
+    "dataset": "YCB-28",
+    "total_objects": 28,
+    "samples_per_object": 20,
+    "total_point_clouds": 560,
+    "points_per_sample": 1000,
+    "features_per_point": 7,
+    "class_counts": {
+        "sphere": 220,
+        "box": 180,
+        "cylinder": 160
+    },
+    "manifest_path": "/content/drive/MyDrive/PointNet_APS_Project_V2/metadata/ycb28_pointcloud_manifest_bbox_norm.csv",
+    "failure_count": 0
+}

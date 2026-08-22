@@ -1,0 +1,13 @@
+input_type,training_condition,training_short,n_runs,mean_accuracy_percent,median_accuracy_percent,std_accuracy_percent,min_accuracy_percent,max_accuracy_percent,plot_label
+XYZ + normals,clean_trained,Clean,9,66.0515873015873,64.46428571428572,4.1920992527759555,61.96428571428572,75.0,"XYZ + normals
+Clean train"
+XYZ + normals,error_trained,Error,9,67.32142857142858,67.14285714285714,4.5762739388355325,58.392857142857146,73.39285714285714,"XYZ + normals
+Error train"
+XYZ + normals,mixed_trained,Mixed,9,67.18253968253968,66.96428571428571,3.145060329859834,63.39285714285714,72.14285714285714,"XYZ + normals
+Mixed train"
+XYZ only,clean_trained_xyz,Clean,9,83.05555555555556,82.67857142857142,1.8970733964861068,80.71428571428572,86.07142857142858,"XYZ only
+Clean train"
+XYZ only,error_trained_xyz,Error,9,86.54761904761905,86.60714285714286,2.409060279148579,83.03571428571429,90.35714285714286,"XYZ only
+Error train"
+XYZ only,mixed_trained_xyz,Mixed,9,89.18650793650794,90.0,1.9026681200505509,85.71428571428571,91.25,"XYZ only
+Mixed train"

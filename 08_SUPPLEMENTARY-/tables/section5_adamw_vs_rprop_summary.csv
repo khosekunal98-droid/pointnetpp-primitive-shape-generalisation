@@ -1,0 +1,3 @@
+method,runs,mean_accuracy_percent,median_accuracy_percent,best_accuracy_percent,std_accuracy_percent
+AdamW mixed,9,89.18650793650794,90.0,91.25,1.9026681200505486
+RProp mixed,10,70.71428571428572,70.80357142857143,73.57142857142858,2.291473399395262

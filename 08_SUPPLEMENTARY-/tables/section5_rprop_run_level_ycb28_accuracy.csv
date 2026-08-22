@@ -1,0 +1,11 @@
+optimizer,version,train_condition,checkpoint,accuracy_percent,n_samples,mean_confidence,method
+RProp,v1,mixed_trained_xyz_rprop,mixed_trained_xyz_rprop_run_10_best.pth,68.21428571428572,560,0.7460367233093296,RProp mixed
+RProp,v1,mixed_trained_xyz_rprop,mixed_trained_xyz_rprop_run_1_best.pth,68.21428571428572,560,0.7076387804001569,RProp mixed
+RProp,v1,mixed_trained_xyz_rprop,mixed_trained_xyz_rprop_run_2_best.pth,70.35714285714286,560,0.7316264046622174,RProp mixed
+RProp,v1,mixed_trained_xyz_rprop,mixed_trained_xyz_rprop_run_3_best.pth,71.25,560,0.7493183155677148,RProp mixed
+RProp,v1,mixed_trained_xyz_rprop,mixed_trained_xyz_rprop_run_4_best.pth,73.03571428571428,560,0.7255122304494892,RProp mixed
+RProp,v1,mixed_trained_xyz_rprop,mixed_trained_xyz_rprop_run_5_best.pth,71.78571428571429,560,0.7438574126256364,RProp mixed
+RProp,v1,mixed_trained_xyz_rprop,mixed_trained_xyz_rprop_run_6_best.pth,67.5,560,0.7259259111647095,RProp mixed
+RProp,v1,mixed_trained_xyz_rprop,mixed_trained_xyz_rprop_run_7_best.pth,73.57142857142858,560,0.7643641946039029,RProp mixed
+RProp,v1,mixed_trained_xyz_rprop,mixed_trained_xyz_rprop_run_8_best.pth,69.64285714285714,560,0.7352242730557919,RProp mixed
+RProp,v1,mixed_trained_xyz_rprop,mixed_trained_xyz_rprop_run_9_best.pth,73.57142857142858,560,0.753204386521663,RProp mixed

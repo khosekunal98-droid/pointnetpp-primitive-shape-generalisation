@@ -1,0 +1,10 @@
+train_condition,run_id,final_epoch,final_train_accuracy_percent,final_val_accuracy_percent,best_val_accuracy_percent,train_val_gap_percent,final_train_loss,final_val_loss,possible_overfitting_flag,strong_overfitting_flag
+clean_trained_xyz,1,50,98.308,100.0,100.0,-1.692,0.2217,0.1729,False,False
+clean_trained_xyz,2,50,99.4924,100.0,100.0,-0.5076,0.2053,0.1736,False,False
+clean_trained_xyz,3,48,99.154,100.0,100.0,-0.846,0.2072,0.1747,False,False
+error_trained_xyz,1,50,97.6311,100.0,100.0,-2.3689,0.2381,0.1778,False,False
+error_trained_xyz,2,50,97.9695,100.0,100.0,-2.0305,0.2362,0.175,False,False
+error_trained_xyz,3,50,96.1083,99.8333,100.0,-3.725,0.2563,0.1806,False,False
+mixed_trained_xyz,1,50,98.6464,100.0,100.0,-1.3536,0.2117,0.1722,False,False
+mixed_trained_xyz,2,50,98.9848,100.0,100.0,-1.0152,0.2048,0.1731,False,False
+mixed_trained_xyz,3,37,98.731,100.0,100.0,-1.269,0.2201,0.1736,False,False

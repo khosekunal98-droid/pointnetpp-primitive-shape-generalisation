@@ -1,0 +1,4 @@
+class_or_group,mean_accuracy_percent,note
+Box,96.07,Strongest class
+Cylinder,73.56,Moderate performance
+Sphere proxy,0.0,Limited by bowl proxy

@@ -1,0 +1,2 @@
+train_condition,n_runs,mean_accuracy_percent,std_accuracy_percent,min_accuracy_percent,median_accuracy_percent,max_accuracy_percent,mean_confidence
+mixed_trained_xyz,9,80.13260173754001,4.280516811146756,69.95884773662551,81.27572016460906,84.5679012345679,0.8964302458744591

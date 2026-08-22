@@ -1,0 +1,4 @@
+test_set,comparison,group_a,group_b,n_a,n_b,mean_a,mean_b,median_a,median_b,mann_whitney_u,p_value,cliffs_delta_a_minus_b,holm_rank,holm_adjusted_p,significant_0.05
+ModelNet40 single-pass clean/error/mixed,clean vs mixed,clean,mixed,1,2,71.58207590306355,79.97256515775035,71.58207590306355,79.97256515775035,0.0,0.6666666666666666,-1.0,1,1.0,False
+ModelNet40 single-pass clean/error/mixed,error vs mixed,error,mixed,1,2,72.56515775034293,79.97256515775035,72.56515775034293,79.97256515775035,0.0,0.6666666666666666,-1.0,2,1.0,False
+ModelNet40 single-pass clean/error/mixed,clean vs error,clean,error,1,1,71.58207590306355,72.56515775034293,71.58207590306355,72.56515775034293,0.0,1.0,-1.0,3,1.0,False

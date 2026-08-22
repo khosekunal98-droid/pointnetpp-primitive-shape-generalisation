@@ -1,0 +1,5 @@
+mapped_class,modelnet40_categories,samples
+Box-like,"glass_box, xbox, wardrobe, night_stand",226
+Cylinder-like,"bottle, cup, vase, flower_pot",240
+Sphere-like proxy,bowl,20
+Total,9 selected categories,486

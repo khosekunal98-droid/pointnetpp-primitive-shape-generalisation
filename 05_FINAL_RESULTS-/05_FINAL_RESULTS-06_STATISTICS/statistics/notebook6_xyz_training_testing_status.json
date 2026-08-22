@@ -1,0 +1,33 @@
+{
+    "notebook": "06_pointnetpp_xyz_training_ycb_test",
+    "purpose": "Train XYZ-only PointNet++ models on APS and test on APS/YCB-28",
+    "input_type": "XYZ only",
+    "use_normals": false,
+    "n_points": 1000,
+    "epochs": 50,
+    "run_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "train_conditions": [
+        "clean_trained_xyz",
+        "error_trained_xyz",
+        "mixed_trained_xyz"
+    ],
+    "checkpoint_count": 27,
+    "expected_checkpoint_count": 27,
+    "aps_summary_path": "/content/drive/MyDrive/PointNet_APS_Project_V2/results_final_xyz/aps_test_results/pointnetpp_xyz_aps_test_summary_runs.csv",
+    "aps_predictions_path": "/content/drive/MyDrive/PointNet_APS_Project_V2/results_final_xyz/aps_test_results/pointnetpp_xyz_aps_test_all_predictions_runs.csv",
+    "ycb_summary_path": "/content/drive/MyDrive/PointNet_APS_Project_V2/results_final_xyz/ycb28_results/pointnetpp_xyz_aps_to_ycb28_summary_runs.csv",
+    "ycb_predictions_path": "/content/drive/MyDrive/PointNet_APS_Project_V2/results_final_xyz/ycb28_results/pointnetpp_xyz_aps_to_ycb28_all_predictions_runs.csv",
+    "run_logs_dir": "/content/drive/MyDrive/PointNet_APS_Project_V2/results_final_xyz/run_logs",
+    "model_dir": "/content/drive/MyDrive/PointNet_APS_Project_V2/models_final_xyz",
+    "results_dir": "/content/drive/MyDrive/PointNet_APS_Project_V2/results_final_xyz"
+}

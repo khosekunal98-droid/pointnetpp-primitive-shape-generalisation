@@ -1,0 +1,2 @@
+method,n,min_accuracy_percent,q1_accuracy_percent,median_accuracy_percent,q3_accuracy_percent,max_accuracy_percent,mean_accuracy_percent,std_accuracy_percent
+RProp mixed,10,68.75,70.625,71.60714285714286,72.09821428571428,72.85714285714285,71.19642857142857,1.3574822048586597

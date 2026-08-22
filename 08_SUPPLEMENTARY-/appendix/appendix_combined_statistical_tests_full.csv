@@ -1,0 +1,10 @@
+test_set,groups,kruskal_h,p_value,significant_0.05,comparison,group_a,group_b,n_a,n_b,mean_a,mean_b,median_a,median_b,mann_whitney_u,cliffs_delta_a_minus_b,holm_rank,holm_adjusted_p
+YCB-28 AdamW clean/error/mixed,"clean, error, mixed",16.64268487380685,0.00024326907154631396,True,,,,,,,,,,,,,
+YCB-28 AdamW clean/error/mixed,,,0.0005736335109885613,True,clean vs mixed,clean,mixed,9.0,9.0,83.05555555555556,89.18650793650794,82.67857142857142,90.0,1.0,-0.9753086419753086,1.0,0.0017209005329656838
+YCB-28 AdamW clean/error/mixed,,,0.006166754221989628,True,clean vs error,clean,error,9.0,9.0,83.05555555555556,86.54761904761905,82.67857142857142,86.60714285714286,9.0,-0.7777777777777778,2.0,0.012333508443979256
+YCB-28 AdamW clean/error/mixed,,,0.02134631992032859,True,error vs mixed,error,mixed,9.0,9.0,86.54761904761905,89.18650793650794,86.60714285714286,90.0,14.0,-0.654320987654321,3.0,0.02134631992032859
+ModelNet40 single-pass clean/error/mixed,"mixed, error, clean",2.6999999999999993,0.2592402606458915,False,,,,,,,,,,,,,
+ModelNet40 single-pass clean/error/mixed,,,0.6666666666666666,False,clean vs mixed,clean,mixed,1.0,2.0,71.58207590306355,79.97256515775035,71.58207590306355,79.97256515775035,0.0,-1.0,1.0,1.0
+ModelNet40 single-pass clean/error/mixed,,,0.6666666666666666,False,error vs mixed,error,mixed,1.0,2.0,72.56515775034293,79.97256515775035,72.56515775034293,79.97256515775035,0.0,-1.0,2.0,1.0
+ModelNet40 single-pass clean/error/mixed,,,1.0,False,clean vs error,clean,error,1.0,1.0,71.58207590306355,72.56515775034293,71.58207590306355,72.56515775034293,0.0,-1.0,3.0,1.0
+YCB-28 AdamW vs RProp,,,0.000276259150885342,True,AdamW mixed vs RProp mixed,AdamW mixed,RProp mixed,9.0,10.0,89.18650793650794,70.71428571428571,90.0,70.80357142857143,90.0,1.0,1.0,0.000276259150885342

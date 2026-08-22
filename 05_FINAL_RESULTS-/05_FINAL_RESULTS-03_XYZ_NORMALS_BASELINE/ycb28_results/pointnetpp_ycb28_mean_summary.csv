@@ -1,0 +1,4 @@
+train_condition,mean_accuracy_percent,std_accuracy_percent,min_accuracy_percent,max_accuracy_percent,mean_box_accuracy_percent,mean_cylinder_accuracy_percent,mean_sphere_accuracy_percent
+clean_trained,66.0516,4.1921,61.9643,75.0,55.4321,60.9028,78.4848
+error_trained,67.3214,4.5763,58.3929,73.3929,42.9012,72.4306,83.5859
+mixed_trained,67.1825,3.1451,63.3929,72.1429,45.8642,71.7361,81.3131

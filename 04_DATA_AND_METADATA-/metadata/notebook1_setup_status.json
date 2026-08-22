@@ -1,0 +1,23 @@
+{
+    "project_dir": "/content/drive/MyDrive/PointNet_APS_Project_V2",
+    "raw_dataset_dir": "/content/drive/MyDrive/PointNet_APS_Project_V2/data/raw/BA-Primitive_Fitting_Dataset",
+    "shapes_dir": "/content/drive/MyDrive/PointNet_APS_Project_V2/data/raw/BA-Primitive_Fitting_Dataset/shapes",
+    "manifest_path": "/content/drive/MyDrive/PointNet_APS_Project_V2/metadata/dataset_manifest_v2.csv",
+    "train_clean_samples": 591,
+    "train_error_samples": 591,
+    "validation_clean_samples": 600,
+    "test_clean_samples": 600,
+    "test_error_samples": 600,
+    "test_error_double_samples": 600,
+    "n_points": 1000,
+    "use_normals": true,
+    "model": "PointNet++ based classifier",
+    "input_channels": 6,
+    "classes": [
+        "box",
+        "cylinder",
+        "sphere"
+    ],
+    "notebook": "01_setup_dataset_model.ipynb",
+    "status": "setup_complete_forward_pass_successful"
+}

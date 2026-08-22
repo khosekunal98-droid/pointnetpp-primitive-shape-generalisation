@@ -1,0 +1,2 @@
+test_set,comparison,group_a,group_b,n_a,n_b,mean_a,mean_b,median_a,median_b,mann_whitney_u,p_value,cliffs_delta_a_minus_b,holm_rank,holm_adjusted_p,significant_0.05
+YCB-28 AdamW vs RProp,AdamW mixed vs RProp mixed,AdamW mixed,RProp mixed,9,10,89.18650793650794,71.19642857142857,90.0,71.60714285714286,90.0,0.000276259150885342,1.0,1,0.000276259150885342,True

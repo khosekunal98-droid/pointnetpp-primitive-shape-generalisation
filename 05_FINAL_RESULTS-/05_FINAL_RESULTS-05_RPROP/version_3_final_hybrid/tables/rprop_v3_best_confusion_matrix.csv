@@ -1,0 +1,4 @@
+,pred_box,pred_cylinder,pred_sphere
+true_box,155,25,0
+true_cylinder,106,54,0
+true_sphere,12,9,199

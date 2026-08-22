@@ -1,0 +1,10 @@
+train_condition,checkpoint,accuracy_percent,n_samples,mean_confidence
+mixed_trained_xyz,mixed_trained_xyz_run_1_best.pth,79.01234567901234,486,0.8932122176076159
+mixed_trained_xyz,mixed_trained_xyz_run_2_best.pth,82.92181069958848,486,0.8987630440129174
+mixed_trained_xyz,mixed_trained_xyz_run_3_best.pth,69.95884773662551,486,0.8889057068422498
+mixed_trained_xyz,mixed_trained_xyz_run_4_best.pth,81.27572016460906,486,0.8981955866386861
+mixed_trained_xyz,mixed_trained_xyz_run_5_best.pth,79.21810699588477,486,0.8824974083851395
+mixed_trained_xyz,mixed_trained_xyz_run_6_best.pth,82.71604938271605,486,0.9078543421662884
+mixed_trained_xyz,mixed_trained_xyz_run_7_best.pth,79.21810699588477,486,0.9102920383337594
+mixed_trained_xyz,mixed_trained_xyz_run_8_best.pth,84.5679012345679,486,0.8688473856007611
+mixed_trained_xyz,mixed_trained_xyz_run_9_best.pth,82.3045267489712,486,0.9193044832827132

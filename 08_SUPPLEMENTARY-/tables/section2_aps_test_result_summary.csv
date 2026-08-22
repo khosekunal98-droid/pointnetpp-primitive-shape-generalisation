@@ -1,0 +1,19 @@
+train_condition,test_set,train_short,test_short,plot_group,mean_accuracy_percent,std_accuracy_percent,min_accuracy_percent,median_accuracy_percent,max_accuracy_percent,n_runs
+clean_trained_xyz,aps_clean_test,Clean,APS clean,"Clean train
+APS clean",100.0,0.0,100.0,100.0,100.0,9
+clean_trained_xyz,aps_error_test,Clean,APS error,"Clean train
+APS error",99.83333333333333,0.11785113019775072,99.66666666666669,99.83333333333331,100.0,9
+clean_trained_xyz,aps_error_double_test,Clean,APS error-double,"Clean train
+APS error-double",67.51851851851852,12.485392699638952,51.83333333333333,68.0,84.83333333333334,9
+error_trained_xyz,aps_clean_test,Error,APS clean,"Error train
+APS clean",99.96296296296296,0.07349309197402945,99.83333333333331,100.0,100.0,9
+error_trained_xyz,aps_error_test,Error,APS error,"Error train
+APS error",99.9074074074074,0.1210805262094661,99.66666666666669,100.0,100.0,9
+error_trained_xyz,aps_error_double_test,Error,APS error-double,"Error train
+APS error-double",98.87037037037037,0.9082101513484243,96.66666666666669,99.0,99.83333333333331,9
+mixed_trained_xyz,aps_clean_test,Mixed,APS clean,"Mixed train
+APS clean",99.98148148148147,0.055555555555561326,99.83333333333331,100.0,100.0,9
+mixed_trained_xyz,aps_error_test,Mixed,APS error,"Mixed train
+APS error",99.92592592592592,0.1689656258416193,99.5,100.0,100.0,9
+mixed_trained_xyz,aps_error_double_test,Mixed,APS error-double,"Mixed train
+APS error-double",98.88888888888889,0.8333333333333328,97.33333333333334,99.16666666666669,99.83333333333331,9

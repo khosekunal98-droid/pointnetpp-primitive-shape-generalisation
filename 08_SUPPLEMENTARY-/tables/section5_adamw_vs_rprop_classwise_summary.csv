@@ -1,0 +1,4 @@
+class,adamw_mixed_mean_accuracy_percent,rprop_mean_accuracy_percent,note
+Box,88.7,75.67,Moderate but lower than AdamW
+Cylinder,87.36,42.56,Main weakness of RProp
+Sphere,90.91,88.55,Comparable but slightly lower
