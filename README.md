@@ -104,3 +104,23 @@ University of Birmingham
 ## Academic Use
 
 This repository accompanies an MSc Robotics dissertation and is provided for academic reproducibility, verification and future research use.
+
+## Citation and Use
+
+This repository is provided for academic review, research transparency,
+reproducibility, and portfolio purposes.
+
+If this work contributes to academic or research activity, please provide
+appropriate attribution. Citation information is available in
+[`CITATION.cff`](CITATION.cff).
+
+Copyright © 2026 Kunal Prakash Khose. All rights reserved.
+
+Public availability of this repository does not grant permission to reproduce,
+redistribute, republish, modify, or commercially exploit the original project
+material without prior permission.
+
+See [`LICENSE`](LICENSE) for the applicable terms.
+
+Third-party datasets and externally sourced materials remain subject to their
+respective original licences and terms.
