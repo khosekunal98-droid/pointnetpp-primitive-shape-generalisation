@@ -116,9 +116,8 @@ appropriate attribution. Citation information is available in
 
 Copyright © 2026 Kunal Prakash Khose. All rights reserved.
 
-Public availability of this repository does not grant permission to reproduce,
-redistribute, republish, modify, or commercially exploit the original project
-material without prior permission.
+This repository is shared publicly for academic review, reproducibility, and portfolio purposes. If you would like to 
+reuse, adapt, redistribute, or republish any original project material, please contact the author for permission first.
 
 See [`LICENSE`](LICENSE) for the applicable terms.
 
