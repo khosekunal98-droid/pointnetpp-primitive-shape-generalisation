@@ -1,2 +1,0 @@
-test_set,groups,kruskal_h,p_value,significant_0.05
-YCB-28 AdamW clean/error/mixed,"clean, error, mixed",16.64268487380685,0.00024326907154631396,True
