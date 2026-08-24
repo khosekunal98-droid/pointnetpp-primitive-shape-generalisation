@@ -1,0 +1,4 @@
+class,adamw_mixed_mean_accuracy_percent,rprop_mean_accuracy_percent,note
+Box,88.70,84.94,RProp lower than AdamW but retained strong box recognition.
+Cylinder,87.36,29.81,Main weakness of RProp.
+Sphere,90.91,90.05,RProp and AdamW showed comparable sphere recognition.
