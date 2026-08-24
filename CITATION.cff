@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you reference this project, please cite it using the information below."
+
+authors:
+  - family-names: "Khose"
+    given-names: "Kunal Prakash"
+
+title: "Primitive Shape Recognition from 3D Point Clouds Using PointNet++ Based Deep Learning"
+
+repository-code: "https://github.com/khosekunal98-droid/pointnetpp-primitive-shape-generalisation"
+
+keywords:
+  - PointNet++
+  - point cloud
+  - primitive shape recognition
+  - synthetic-to-real
+  - YCB
+  - ModelNet40
+  - robotics
