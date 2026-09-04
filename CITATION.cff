@@ -7,6 +7,9 @@ authors:
 
 title: "Primitive Shape Recognition from 3D Point Clouds Using PointNet++ Based Deep Learning"
 
+version: "1.0.0"
+date-released: 2026-09-04
+
 repository-code: "https://github.com/khosekunal98-droid/pointnetpp-primitive-shape-generalisation"
 
 keywords:
